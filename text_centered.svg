@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170mm"
+   height="464.95569mm"
+   viewBox="0 0 170 464.95569"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="text_centered.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5004828"
+     inkscape:cx="360.95083"
+     inkscape:cy="955.46328"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1186"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'EngraversGothic BT';-inkscape-font-specification:'EngraversGothic BT';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="232.74397"
+       y="-96.23555"
+       id="text24"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         x="232.74397"
+         y="-96.23555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan73">text </tspan><tspan
+         sodipodi:role="line"
+         x="232.74397"
+         y="-82.824432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan79">(needs to be </tspan><tspan
+         sodipodi:role="line"
+         x="232.74397"
+         y="-69.413307"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan77">cenetered every change)</tspan></text>
+  </g>
+</svg>
