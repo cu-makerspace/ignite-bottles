@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="board-dms-1-paths.svg"
+   sodipodi:docname="s2021-dms-1-paths.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg4539"
    version="1.1"
@@ -24,10 +24,10 @@
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1113.0101"
-     inkscape:cx="1074.7544"
+     inkscape:cy="1471.733"
+     inkscape:cx="1842.4201"
      inkscape:zoom="0.125"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -233,6 +233,7 @@
            id="path2186" />
       </g>
       <g
+         transform="translate(0,-3.1749999)"
          aria-label="EMAIL FOR  ADDITIONAL  HOURS!"
          id="text1587"
          style="font-size:31.75px;line-height:0.95;font-family:sans-serif;stroke-width:0.264583">
@@ -1078,8 +1079,7 @@
     <g
        style="font-size:30.7058px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;stroke-width:0.719665"
        id="text835"
-       aria-label="OPEN TO ALL STUDENTS, 
-STAFF, AND FACULTY!">
+       aria-label="OPEN TO ALL STUDENTS,  STAFF, AND FACULTY!">
       <path
          id="path1093"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.7058px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';text-align:start;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.719665"
