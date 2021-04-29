@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 179.99999 200"
+   height="200mm"
+   width="180mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(24.030153,-169.97501)"
+     id="layer1">
+    <g
+       transform="rotate(90,43.957628,214.60603)"
+       id="g871">
+      <rect
+         transform="rotate(-90)"
+         y="-0.67338759"
+         x="-282.59381"
+         height="200"
+         width="180"
+         id="rect893"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0303066;stroke-opacity:1" />
+      <g
+         transform="translate(96.623262,-40.054254)"
+         id="g877">
+        <path
+           id="path851"
+           d="m 33.754093,208.04311 -6.11721,-11.72306 h -5.95327 v 7.09811 7.09812 H 11.348388 v -37.71499 h 22.633364 c 0,0 0.07675,1.13914 0,4.07392 v 3.97459 H 21.732363 l 0.04747,1.39308 c 0,0 0.102818,-0.0444 0.245595,-0.0921 0.220943,-0.0739 0.457746,-0.12838 0.716974,-0.0931 0.970017,0.13201 2.269491,1.51913 3.749218,2.92473 1.657604,1.57456 2.190799,2.02288 2.878916,2.60271 0,0 2.207044,-0.0764 3.415255,0 v 4.01998 c 0,0 1.616017,2.2215 2.573567,3.62291 0.957548,1.40143 1.779283,2.54805 1.826076,2.54805 0.04679,0 0.777576,-1.35138 1.623962,-3.00306 0.846383,-1.65166 2.581024,-4.84473 3.854736,-7.09567 1.384997,-2.44761 1.798968,-3.21678 1.798968,-3.21678 -0.567892,-3.23551 1.516709,-6.85419 3.176524,-8.82976 1.29761,-1.54446 3.99236,-3.04696 5.054354,-3.23723 3.240158,-4.52362 7.039853,-8.6281 11.228791,-12.60903 3.777839,-3.54708 10.092639,-8.30784 10.827659,-8.163 0.300798,0.0593 0.963145,0.65197 1.365176,1.06649 0.308643,0.31823 0.692658,0.87319 0.68596,1.05794 -0.01483,0.40908 -3.300185,3.35974 -3.300185,3.35974 -4.667995,4.75223 -12.279248,13.97722 -12.279248,14.82992 3.281584,-0.0624 6.67306,1.15774 9.833798,2.27076 l -3.366604,8.28102 c 0,0 -1.514419,-0.67848 -2.525735,-1.06287 -1.011329,-0.38439 -3.04037,-0.8654 -4.508978,-1.06892 -1.74368,-0.25581 -5.454485,-0.33477 -5.482457,1.74424 0,1.43199 1.074092,2.24706 6.204297,4.70808 7.333132,3.51779 9.516081,6.05792 9.582256,11.15012 0.08791,6.76189 -3.818342,10.86571 -11.638758,12.22757 -5.255936,0.91529 -13.029006,-1.90861 -14.703971,-2.83344 -0.180252,-0.0995 -0.234525,-0.13565 -0.39762,-0.2227 l -0.14839,14.48894 H 33.935624 Z m 25.919049,-7.01749 c 1.128475,-0.88766 1.281956,-2.48219 0.322095,-3.34621 -0.606605,-0.54603 -8.248199,-5.25935 -9.318956,-6.24678 0,0 -1.335522,2.38804 -2.225544,4.00475 -1.46171,2.65517 -1.825299,3.91452 -1.825299,3.91452 3.782173,1.80695 9.911063,4.11525 13.047704,1.67372 z"
+           style="fill:#000000;stroke-width:0.364006" />
+        <text
+           id="text855"
+           y="264.50867"
+           x="43.882267"
+           style="font-size:12.3472px;line-height:1.05;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.3472px;font-family:'Roboto Medium';-inkscape-font-specification:'Roboto Medium, Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             y="264.50867"
+             x="43.882267"
+             id="tspan853">$firstname</tspan><tspan
+             id="tspan857"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.3472px;font-family:'Roboto Medium';-inkscape-font-specification:'Roboto Medium, Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             y="277.47324"
+             x="43.882267">$lastname</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
